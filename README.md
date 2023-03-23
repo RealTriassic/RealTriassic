@@ -6,7 +6,7 @@ My goal is to create software solutions that are not only secure and scalable bu
 ## 💻 My Skills
 
 - **Linux System Administration**: I'm proficient in managing Linux servers, implementing security measures, and troubleshooting issues.
-- **User Interface Design**: I have a keen eye for design and specialize in creating beautiful user interfaces that enhance the user experience.
+- **UI Design**: I have a keen eye for design and specialize in creating beautiful user interfaces that enhance the user experience.
 - **Web Development**: My expertise in HTML, CSS, JavaScript & Typescript and various web frameworks enables me to build beautiful web apps.
 - **Minecraft Server Development**: I'm passionate about creating Minecraft servers for everyone to enjoy.
 
