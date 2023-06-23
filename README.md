@@ -11,4 +11,4 @@ My goal is to create software solutions that are not only secure and scalable bu
 - **Minecraft Server Development**: I'm passionate about creating Minecraft servers for everyone to enjoy.
 
 ## 📧 Contact Me
-Do you have any questions? Reach out to me on Discord, my tag is `Triassic#3426`. Alternatively, feel free to reach out on [Twitter](https://twitter.com/RealTriassic).
+Do you have any questions? Reach out to me on Discord, my username is `@realtriassic`. Alternatively, feel free to reach out on [Twitter](https://twitter.com/RealTriassic).
